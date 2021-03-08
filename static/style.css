@@ -1,0 +1,43 @@
+.navbar{
+    background : linear-gradient(to right, rgb(65, 201, 211), rgb(184, 173, 255))!important;
+    color:rgb(29, 212, 151)!important;
+    text-align: center;
+}
+
+body{
+    background : linear-gradient(to right, rgb(184, 231, 234), rgb(184, 173, 255));!important;
+    color:#fff!important;
+   
+}
+
+
+#wrapper{
+    background-color: #4c0a69;
+    border-radius: 5px;
+}
+.a{
+    text-align: center;
+    color: rgba(37, 185, 204, 0.842);
+    font-family: 'Cormorant Unicase', serif;
+    
+}
+.a:hover{
+    text-decoration: none;
+    background-color: #4c0a69!important;
+    color:#fff;
+}
+
+button{
+    background-color: #f26969;
+    transition: 0.3s;
+    color: #4c0a69;
+}
+
+button:hover{
+    opacity: 1;
+
+}
+
+.home{
+    font-family: 'Cormorant Unicase', serif;
+}
