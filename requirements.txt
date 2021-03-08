@@ -15,7 +15,7 @@ Django==1.11.23
 django-cors-headers==3.0.2
 django-cors-middleware==1.5.0
 djangorestframework==3.9.4
-duplicity==0.7.17
+
 elasticsearch==7.1.0
 enum34==1.1.6
 fasteners==0.12.0
